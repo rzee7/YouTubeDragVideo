@@ -54,7 +54,7 @@ Boom!! We are good to go!! you can drag video now.
 
 ![Screening](https://raw.githubusercontent.com/rzee7/YouTubeDragVideo/master/DragVideoPanel.gif)
    
-Thanks to [entotsu](https://github.com/entotsu) native lirary creator and [Naina](https://github.com/XnainA) Who find it :)
+Thanks to [entotsu](https://github.com/entotsu) native lirary creator.
 
 Cheers!!
 
